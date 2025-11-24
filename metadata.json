@@ -1,0 +1,5 @@
+{
+  "name": "DrillStock Control",
+  "description": "A dashboard to control well drilling materials, analyze stock availability against planned activity, and calculate drilling feasibility.",
+  "requestFramePermissions": []
+}
