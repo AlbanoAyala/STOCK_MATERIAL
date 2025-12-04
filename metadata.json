@@ -1,0 +1,5 @@
+{
+  "name": "DMMS - Drilling Material Management",
+  "description": "A decision support tool for drilling operations planning. It validates material availability against planned wells using inventory data and specific well requirements.",
+  "requestFramePermissions": []
+}
